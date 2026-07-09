@@ -126,15 +126,11 @@ const ayush = {
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Coderencrypt/Coderencrypt/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
 <div align="center">
+  
+![](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:4F46E5,100:06B6D4&height=120&section=footer)
 
 ![](https://komarev.com/ghpvc/?username=Coderencrypt&style=for-the-badge&color=2563EB)
-
-![](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:4F46E5,100:06B6D4&height=120&section=footer)
 
 ⭐ If you like my work, consider starring my repositories!
 
