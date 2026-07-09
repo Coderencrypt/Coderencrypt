@@ -103,15 +103,7 @@ const ayush = {
 # 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Coderencrypt&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coderencrypt&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <img src="https://streak-stats.demolab.com?user=Coderencrypt&theme=tokyonight&hide_border=true"/>
-
-
-
 </div>
 
 ---
