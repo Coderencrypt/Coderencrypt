@@ -7,41 +7,30 @@
 
 ---
 
-# 👨‍💻 About Me
-
-```javascript
-const ayush = {
-  name: "Ayush Dubey",
-  role: "Full-Stack MERN Developer",
-  university: "Parul University",
-  degree: "B.Tech Computer Science & Engineering",
-  year: "Final Year",
-  skills: [
-    "React.js","Node.js","Express.js","MongoDB",
-    "FastAPI","Socket.IO","REST APIs","Tailwind CSS"
-  ],
-  interests: [
-    "AI","System Design","Open Source","Competitive Programming"
-  ],
-  currentFocus: [
-    "Scalable MERN Applications",
-    "AI-powered Products",
-    "DSA & Problem Solving"
-  ],
-  projects: [
-    "CodeConnect",
-    "AI Interview Simulator",
-    "WebsiteBuilder.ai"
-
-  ],
-  achievements: {
-    leetcode: "210+ Problems Solved",
-    hackathon: "Cognizant Technoverse Hackathon Qualifier"
-  },
-
-  motto: "Building scalable digital experiences through code. 🚀"
-};
+# 🚀 About Me
 ```
+I am a passionate **Full-Stack MERN Developer** and final-year Computer Science student at Parul University,
+ focused on building scalable web applications and AI-powered products.
+
+### 🛠️ Tech Stack & Skills
+* **Frontend:** React.js, Tailwind CSS
+* **Backend:** Node.js, Express.js, FastAPI, Socket.IO, REST APIs
+* **Database:** MongoDB
+
+### 🎯 Current Focus
+* Building scalable MERN applications & AI-driven platforms.
+* Deepening knowledge in System Design & Advanced DSA.
+
+### 📁 Featured Projects
+* **CodeConnect** — Service-based collaboration platform.
+* **AI Interview Simulator** — Smart preparation platform.
+* **WebsiteBuilder.ai** — AI-assisted web generation tool.
+
+### 🏆 Achievements
+* 💻 **LeetCode:** 210+ Problems Solved
+* 💡 **Hackathon:** Cognizant Technoverse Hackathon Qualifier
+
+  ```
 ---
 
 # 🌱 Currently
@@ -54,7 +43,6 @@ const ayush = {
 ---
 
 # 🛠 Tech Stack
-
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
