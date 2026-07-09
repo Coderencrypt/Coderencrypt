@@ -1,16 +1,10 @@
-
 # 👋 Hi, I'm Ayush Dubey
-
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:4F46E5,100:06B6D4&height=220&section=header&text=AYUSH%20DUBEY&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20·%20AI%20Enthusiast%20·%20Parul%20University&descAlignY=56&descSize=15)
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+AI+Powered+Web+Applications;Full-Stack+MERN+Developer;React+·+Node.js+·+MongoDB+·+Express;FastAPI+·+Socket.IO+·+TailwindCSS;Open+to+Internships+and+Collaboration)
-
 </div>
-
 ---
-
 # 👨‍💻 About Me
 
 ```javascript
@@ -49,7 +43,6 @@ const ayush = {
   motto: "Building scalable digital experiences through code. 🚀"
 };
 ```
-
 ---
 
 # 🌱 Currently
