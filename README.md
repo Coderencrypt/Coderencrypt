@@ -1,48 +1,26 @@
-# 👋 Hi, I'm Ayush Dubey
 <div align="center">
-  
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:4F46E5,100:06B6D4&height=220&section=header&text=AYUSH%20DUBEY&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20·%20AI%20Enthusiast%20·%20Parul%20University&descAlignY=56&descSize=15)
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+AI+Powered+Web+Applications;Full-Stack+MERN+Developer;React+·+Node.js+·+MongoDB+·+Express;FastAPI+·+Socket.IO+·+TailwindCSS;Open+to+Internships+and+Collaboration)
+
 </div>
 
 ---
 
-# 🚀 About Me
-```
-I am a passionate **Full-Stack MERN Developer** and final-year Computer Science student at Parul University,
- focused on building scalable web applications and AI-powered products.
+### 🚀 About Me
 
-### 🛠️ Tech Stack & Skills
-* **Frontend:** React.js, Tailwind CSS
-* **Backend:** Node.js, Express.js, FastAPI, Socket.IO, REST APIs
-* **Database:** MongoDB
+Final-year Computer Science student at **Parul University** building full-stack MERN applications and AI-powered products. I like turning ideas into working, scalable web apps — from real-time collaboration tools to AI interview platforms. Currently sharpening my System Design and DSA skills, and always up for interesting internships or open-source collaboration.
 
-### 🎯 Current Focus
-* Building scalable MERN applications & AI-driven platforms.
-* Deepening knowledge in System Design & Advanced DSA.
-
-### 📁 Featured Projects
-* **CodeConnect** — Service-based collaboration platform.
-* **AI Interview Simulator** — Smart preparation platform.
-* **WebsiteBuilder.ai** — AI-assisted web generation tool.
-
-### 🏆 Achievements
-* 💻 **LeetCode:** 210+ Problems Solved
-* 💡 **Hackathon:** Cognizant Technoverse Hackathon Qualifier
-
-  ```
----
-
-# 🌱 Currently
-
-- 🔭 Building AI-powered web applications
-- 📚 Learning System Design
-- 💻 Solving LeetCode consistently
-- 🤝 Open to internships and collaborations
+- 🔭 Currently building AI-powered web applications
+- 📚 Currently learning System Design & Advanced DSA
+- 💻 210+ problems solved on LeetCode
+- 🤝 Open to internships and collaboration
+- 📫 Reach me at **ayushdubey3369@gmail.com**
 
 ---
 
-# 🛠 Tech Stack
+### 🛠 Tech Stack
 
 <div align="center">
 
@@ -61,58 +39,65 @@ I am a passionate **Full-Stack MERN Developer** and final-year Computer Science 
 
 </div>
 
-
 ---
 
-# 🚀 Featured Projects
+### 🚀 Featured Projects
 
 | Project | Description |
 |---|---|
-| 💻 **[CodeConnect](https://github.com/Coderencrypt/CodeConnect)** | Real-time coding interview platform featuring video calls, collaborative code editing, DSA practice, secure authentication, Socket.IO and WebRTC. |
-| 🤖 **[AI Interview Simulator](https://github.com/Coderencrypt/AI-Interview-Simulator)** | AI-powered interview preparation platform with coding rounds, voice interaction, feedback and personalized interview sessions. |
+| 💻 **[CodeConnect](https://github.com/Coderencrypt/CodeConnect)** | Real-time coding interview platform with video calls, collaborative code editing, DSA practice, secure authentication, Socket.IO, and WebRTC. |
+| 🤖 **[AI Interview Simulator](https://github.com/Coderencrypt/AI-Interview-Simulator)** | AI-powered interview prep platform with coding rounds, voice interaction, live feedback, and personalized sessions. |
+| 🌐 **WebsiteBuilder.ai** | AI-assisted web generation tool. *(add repo link here, or mark private)* |
+
+> 💡 Add live demo links (Vercel/Netlify) next to any deployed project — recruiters click those more than raw repos.
 
 ---
 
-# 🏆 Achievements
+### 🏆 Achievements
 
-- 🏅 Cognizant Technoverse Hackathon (CTH) **Qualifier**
-- 🚀 Smart India Hackathon Qualifier
-- 💻 Solved **210+ LeetCode Problems**
-- 🌟 Built multiple Full-Stack MERN applications
+- 🏅 Cognizant Technoverse Hackathon (CTH) — Qualifier
+- 🚀 Smart India Hackathon — Qualifier
+- 💻 210+ problems solved on LeetCode
+- 🌟 Built and shipped multiple full-stack MERN applications
 
 ---
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Coderencrypt&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coderencrypt&layout=compact&theme=tokyonight&hide_border=true" />
+
 <img src="https://streak-stats.demolab.com?user=Coderencrypt&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-# 📬 Connect With Me
+### 📬 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Coderencrypt-181717?style=for-the-badge&logo=github)](https://github.com/Coderencrypt)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-Ayushalgo-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ayushalgo/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your_Profile-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](REPLACE_WITH_YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-ayushdubey3369@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:ayushdubey3369@gmail.com)
 
 </div>
 
+<!--
+Optional: add a resume badge once you have a hosted link, e.g.:
+[![Resume](https://img.shields.io/badge/Resume-View-2563EB?style=for-the-badge&logo=readthedocs&logoColor=white)](YOUR_RESUME_URL)
+-->
+
 ---
 
-## 🐍 Contribution Snake
-
 <div align="center">
-  
+
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:4F46E5,100:06B6D4&height=120&section=footer)
 
-![](https://komarev.com/ghpvc/?username=Coderencrypt&style=for-the-badge&color=2563EB)
+![Profile Views](https://komarev.com/ghpvc/?username=Coderencrypt&style=for-the-badge&color=2563EB)
 
 ⭐ If you like my work, consider starring my repositories!
 
