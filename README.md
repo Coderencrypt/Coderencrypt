@@ -42,14 +42,12 @@ Final-year Computer Science student at **Parul University** building full-stack 
 ---
 
 ### 🚀 Featured Projects
-
+ 
 | Project | Description |
 |---|---|
 | 💻 **[CodeConnect](https://github.com/Coderencrypt/CodeConnect)** | Real-time coding interview platform with video calls, collaborative code editing, DSA practice, secure authentication, Socket.IO, and WebRTC. |
 | 🤖 **[AI Interview Simulator](https://github.com/Coderencrypt/AI-Interview-Simulator)** | AI-powered interview prep platform with coding rounds, voice interaction, live feedback, and personalized sessions. |
-| 🌐 **WebsiteBuilder.ai** | AI-assisted web generation tool. *(add repo link here, or mark private)* |
-
-> 💡 Add live demo links (Vercel/Netlify) next to any deployed project — recruiters click those more than raw repos.
+| 🌐 **[WebsiteBuilder.ai](https://github.com/Coderencrypt/WebsiteBuilder.ai)** | AI-powered SaaS platform that generates and deploys full websites from a single prompt — built-in editor, live-site preview, credit-based plans (Free/Pro/Enterprise), and Stripe billing with webhook-driven provisioning. |
 
 ---
 
